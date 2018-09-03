@@ -1,6 +1,6 @@
 # ffmpeg-automator
 
-¯\_(ツ)_/¯¯
+#¯\_(ツ)_/¯¯
 
 this script will use ffmpeg calls and globs to identify and convert all .mkv and .avi files to .mp4. 
 Post conversion will remove the original and automatically move the .mp4 to the desired directory based off the movie runtime.
